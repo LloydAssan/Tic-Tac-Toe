@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tic Tac Toe</title>
+  </head>
+  <body onload="startGame()">
+
+    <h1>WELCOME TO MY TIC-TAC-TOE GAME</h1>
+    <div id="message">Message here.</div>
+
+   <table>
+       <tr>
+           <td class="box" id="box1" onClick="nextMove(this)"></td>
+           <td class="box" id="box2" onClick="nextMove(this)"></td>
+           <td class="box" id="box3" onClick="nextMove(this)"></td>
+       </tr>
+       <tr>
+         <td class="box" id="box4" onClick="nextMove(this)"></td>
+         <td class="box" id="box5" onClick="nextMove(this)"></td>
+         <td class="box" id="box6" onClick="nextMove(this)"></td>
+       </tr>
+       <tr>
+         <td class="box" id="box7" onClick="nextMove(this)"></td>
+         <td class="box" id="box8" onClick="nextMove(this)"></td>
+         <td class="box" id="box9" onClick="nextMove(this)"></td>
+       </tr>
+   </table>
+   <a href="javascript: starGame();"></a>
+
+
+    <script src="app.js" charset="utf-8"></script>
+  </body>
+</html>

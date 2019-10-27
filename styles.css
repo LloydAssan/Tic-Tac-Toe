@@ -1,0 +1,149 @@
+
+body{
+  background-image: url("toes.jpg");
+  /* background-repeat: no-repeat; */
+}
+
+h1{
+  color: black;
+  font-size: 5em;
+  justify-content: center;
+  display: flex;
+  border-bottom: 3px solid black;
+  text-align: center;
+}
+
+#messageUnderH1{
+  font-size: 2em;
+  text-align: center;
+}
+
+/* table */
+table{
+  display: flex;
+  justify-content: center;
+}
+
+/* table display */
+td{
+  background-color: grey;
+  border: 1px solid black;
+  height: 200px;
+  width: 200px;
+}
+
+.box{
+  color: white;
+  font-size: 130px;
+  font-style: oblique;
+  text-align: center;
+}
+
+div{
+  text-align: center;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 900;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+table {
+	border-collapse:collapse;
+  border-collapse: collapse;
+  margin: auto;
+  border: 3px solid white;
+}
+
+td {
+	background-color: black;
+	border: 3px solid white;
+	font-size:80px;
+	color:#ffffff;
+	border-radius: 10px 10px 10px 10px;
+}
+
+
+#player {
+  padding: 1rem;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+} */
