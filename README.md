@@ -4,7 +4,7 @@ Hope you enjoy
 
 **Link to project:** https://quizzical-leavitt-f04318.netlify.com/
 
-![alt tag](ticGame.jpg)
+![alt tag](ticGame.png)
 
 
 
